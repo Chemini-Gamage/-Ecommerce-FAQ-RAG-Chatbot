@@ -26,6 +26,6 @@ Retrieve relevant chunks when a customer asks a question
 
 Generate answer using GPT-4/4o with the retrieved context
 
-#   Running on public URL: https://728eef15f46d54b832.gradio.live
+#   Running on public URL:  https://c124a9bf3cf318a74e.gradio.live
 #  Sample demo
 ![Uploading image.png…]()
